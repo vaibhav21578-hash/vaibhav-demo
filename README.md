@@ -1,2 +1,3 @@
 # vaibhav-demo
-first git repositiory
+first git repository
+author -vaibhav
